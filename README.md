@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi there Siddhanth here 👋
 
-<!--
-**siddannth/siddannth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Summary
 
-Here are some ideas to get you started:
+Full Stack Developer who enjoys building web applications and exploring new technologies. Passionate about creating useful projects and continuously learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Skills
+
+💻 Languages
+
+JavaScript
+
+TypeScript
+
+Java
+
+Python
+
+SQL
+
+🛠️ Tools & Frameworks
+
+React.js, Next.js
+
+Node.js, Express.js
+
+Spring Boot, Spring MVC, Hibernate, JPA
+
+HTML, CSS, Tailwind CSS, Bootstrap, Ajax, JSON
+
+☁️ Cloud Platforms
+
+AWS (EC2, S3, Lambda)
+
+🗄️ Databases
+
+MongoDB, MySQL, PostgreSQL
+
+⚙️ Version Control & CI/CD
+
+Git, GitHub, Jenkins, Maven, Gradle
+
+🧪 Testing Tools
+
+Jest, JUnit
+
+📋 Project Management
+
+Jira
+
+🔹 Hobbies
+
+Reading
+
+Watching movies
+
+Cooking
+
+
