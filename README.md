@@ -1,59 +1,63 @@
-## Hi there Siddhanth here 👋
+## Hi there, Siddhanth here 👋
 
-🔹 Summary
+I'm a Full Stack Developer who enjoys building web apps, exploring new technologies, and learning by doing.  
 
-Full Stack Developer who enjoys building web applications and exploring new technologies. Passionate about creating useful projects and continuously learning.
+---
 
-🔹 Skills
+### 💻 Languages  
+![JavaScript](https://img.icons8.com/color/30/javascript.png)  
+![TypeScript](https://img.icons8.com/color/30/typescript.png)  
+![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png)  
+![Python](https://img.icons8.com/color/30/python.png)  
+![SQL](https://img.icons8.com/ios-filled/30/000000/sql.png)  
 
-💻 Languages
+---
 
-JavaScript
+### 🛠️ Tools & Frameworks  
+![React](https://img.icons8.com/color/30/react-native.png)  
+![Next.js](https://img.icons8.com/fluency/30/nextjs.png)  
+![Node.js](https://img.icons8.com/color/30/nodejs.png)  
+![Express.js](https://img.icons8.com/ios/30/express-js.png)  
+![Spring Boot](https://img.icons8.com/color/30/spring-logo.png)  
+![HTML5](https://img.icons8.com/color/30/html-5.png)  
+![CSS3](https://img.icons8.com/color/30/css3.png)  
+![Tailwind CSS](https://img.icons8.com/color/30/tailwindcss.png)  
+![Bootstrap](https://img.icons8.com/color/30/bootstrap.png)  
+![JSON](https://img.icons8.com/fluency/30/json.png)  
 
-TypeScript
+---
 
-Java
+### ☁️ Cloud Platforms  
+![AWS](https://img.icons8.com/color/30/amazon-web-services.png)  
 
-Python
+---
 
-SQL
+### 🗄️ Databases  
+![MongoDB](https://img.icons8.com/color/30/mongodb.png)  
+![MySQL](https://img.icons8.com/color/30/mysql-logo.png)  
+![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)  
 
-🛠️ Tools & Frameworks
+---
 
-React.js, Next.js
+### ⚙️ Version Control & CI/CD  
+![Git](https://img.icons8.com/color/30/git.png)  
+![GitHub](https://img.icons8.com/glyph-neue/30/github.png)  
+![Jenkins](https://img.icons8.com/color/30/jenkins.png)  
+![Maven](https://img.icons8.com/color/30/apache-maven.png)  
+![Gradle](https://img.icons8.com/color/30/gradle.png)  
 
-Node.js, Express.js
+---
 
-Spring Boot, Spring MVC, Hibernate, JPA
+### 🧪 Testing Tools  
+![Jest](https://img.icons8.com/color/30/jest.png)  
+![JUnit](https://img.icons8.com/color/30/test-tube.png)  
 
-HTML, CSS, Tailwind CSS, Bootstrap, Ajax, JSON
+---
 
-☁️ Cloud Platforms
+### 📋 Project Management  
+![Jira](https://img.icons8.com/color/30/jira.png)  
 
-AWS (EC2, S3, Lambda)
+---
 
-🗄️ Databases
-
-MongoDB, MySQL, PostgreSQL
-
-⚙️ Version Control & CI/CD
-
-Git, GitHub, Jenkins, Maven, Gradle
-
-🧪 Testing Tools
-
-Jest, JUnit
-
-📋 Project Management
-
-Jira
-
-🔹 Hobbies
-
-Reading
-
-Watching movies
-
-Cooking
-
-
+### 🎯 Hobbies  
+📚 Reading • 🎬 Watching Movies • 🍳 Cooking  
