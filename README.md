@@ -1,6 +1,6 @@
 ## Hi there, Siddhanth here 👋
 
-I'm a Full Stack Developer who enjoys building web apps, exploring new technologies, and learning by doing.  
+Full Stack Developer @ JP Morgan Chase | MERN | React | Node.js | Open to new opportunities
 
 ---
 
